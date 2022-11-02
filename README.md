@@ -21,4 +21,4 @@ systemctl disable firewalld.service
 
 First and foremost uninstall default JDK by command 
 
-rpm -ga | grep -i java | xargs -n1 rpm -e --nodeps
+rpm -qa | grep -i java | xargs -n1 rpm -e --nodeps
