@@ -28,3 +28,17 @@ File
 
 hadoop-3.1.3.tar.gz
 jdk-8u212-linux-x64.tar.gz
+
+
+tar -zxvf hadoop-3.1.3.tar.gz -C /opt/module
+
+
+Add my_env.sh
+
+source /etc/profile
+
+then command
+
+Java should work
+
+tar -zxvf jdk-8u212-linux-x64.tar.gz -C /opt/module
