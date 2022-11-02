@@ -126,3 +126,8 @@ export HDFS_SECONDARYNAMENODE_USER="root"
 export YARN_RESOURCEMANAGER_USER="root"
 
 export YARN_NODEMANAGER_USER="root"
+
+
+
+![image](https://user-images.githubusercontent.com/58724748/199521041-82e6026a-e8a3-482b-851f-26de5bec076c.png)
+ 
