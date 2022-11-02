@@ -131,3 +131,6 @@ export YARN_NODEMANAGER_USER="root"
 
 ![image](https://user-images.githubusercontent.com/58724748/199521041-82e6026a-e8a3-482b-851f-26de5bec076c.png)
  
+ 
+ ![image](https://user-images.githubusercontent.com/58724748/199524518-1d3b8a7d-dc23-46c5-8ff4-f5880bbd2c28.png)
+
