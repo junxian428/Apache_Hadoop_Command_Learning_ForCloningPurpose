@@ -22,3 +22,9 @@ systemctl disable firewalld.service
 First and foremost uninstall default JDK by command 
 
 rpm -qa | grep -i java | xargs -n1 rpm -e --nodeps
+
+
+File
+
+hadoop-3.1.3.tar.gz
+jdk-8u212-linux-x64.tar.gz
