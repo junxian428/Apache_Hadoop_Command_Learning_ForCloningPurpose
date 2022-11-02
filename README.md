@@ -49,6 +49,42 @@ ________________________________________________________________________________
 ![Screenshot (365)](https://user-images.githubusercontent.com/58724748/199487404-05e6d772-b868-4f9e-a6ad-627970d0450f.png)
 
 
+[root@hadoop100 hadoop]# vim ^C
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# vim core-site.xml
+
+
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# vim hdfs-site.xml
+
+[root@hadoop100 hadoop]# vim hdfs-site.xml
+
+[root@hadoop100 hadoop]# vim hdfs-site.xml
+
+[root@hadoop100 hadoop]# vim yarn-site.xml
+
+[root@hadoop100 hadoop]# vim yarn-site.xml
+
+[root@hadoop100 hadoop]# vim mapred-site.xml
+
+[root@hadoop100 hadoop]# vim core-site.xml
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# vim core-site.xml
+
+[root@hadoop100 hadoop]# cat core-site.xml
+
+
 
 core-site.xml
 
