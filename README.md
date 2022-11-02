@@ -11,6 +11,14 @@ total 30gb
 Network I set default 
 (Tutorial Video set static ip)
 
+
+
+yum install -y epel-release
+
+systemctl stop firewalld
+
+systemctl disable firewalld.service
+
 First and foremost uninstall default JDK by command 
 
 rpm -ga | grep -i java | xargs -n1 rpm -e --nodeps
