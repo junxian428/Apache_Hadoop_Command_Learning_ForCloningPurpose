@@ -42,3 +42,9 @@ then command
 Java should work
 
 tar -zxvf jdk-8u212-linux-x64.tar.gz -C /opt/module
+
+___________________________________________________________________________________________________________________________________________
+
+
+![Screenshot (365)](https://user-images.githubusercontent.com/58724748/199487404-05e6d772-b868-4f9e-a6ad-627970d0450f.png)
+
